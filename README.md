@@ -1,2 +1,3 @@
 # AliceSkyGardenT4
-2026 i will create and launch AliceSkyGardenT4 LLM Mode
+2026 i will create and launch AliceSkyGardenT4 LLM Mode Multimodal Mixing
+On the road...
